@@ -1,24 +1,18 @@
 \## What changed
 
-
-
-\- Briefly summarize what this PR changes.
+\- Summarize what this PR changes.
 
 
 
 \## Why
 
-
-
-\- Explain the reason for this change / problem being solved.
+\- Explain the reason for this change / the problem being solved.
 
 
 
 \## How to test
 
-
-
-1\. Steps to setup environment
+1\. Steps to set up the environment
 
 2\. Steps to run the code
 
@@ -28,11 +22,9 @@
 
 \## Checklist
 
-
-
 \- \[ ] Title describes the change clearly
 
-\- \[ ] Description explains why change is necessary
+\- \[ ] Description explains why the change is necessary
 
 \- \[ ] How to test steps are clear
 

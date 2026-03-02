@@ -1,16 +1,16 @@
-\## Pre-PR Self Review Checklist
+\# Pre-PR Self-Review Checklist
 
 
 
-\- \[ ] Does the title accurately reflect the change?
+\- \[ ] My changes match the PR title and description
 
-\- \[ ] Have I verified the functionality runs without errors?
+\- \[ ] I ran the code locally and it works as expected
 
-\- \[ ] Have I checked the scope is limited to just one logical change?
+\- \[ ] I ran tests (if available) and they pass
 
-\- \[ ] Have I run any relevant tests or checks locally?
+\- \[ ] I updated README/docs if behavior changed
 
-\- \[ ] Have I updated documentation/README if behavior changed?
+\- \[ ] No debug prints, breakpoints, or temporary files left
 
-\- \[ ] Are there no debug prints or leftover temporary code?
+\- \[ ] The PR is small and focused on one topic
 
